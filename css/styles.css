@@ -116,7 +116,7 @@ body {
       flex-direction: column;
       justify-content: space-around;
       padding: 40px 65px 40px;
-      min-height: 500px;
+      min-height: 600px;
       width: 300px;
 }
 
@@ -130,7 +130,7 @@ body {
 }
 
 .register__container--login {
-    padding: 20px 10px 20px 10px ;
+    padding: 40px 10px 20px 10px ;
     font-size: 14px;
 }
 
@@ -201,7 +201,14 @@ body {
 
 /** Media queries para mejorar la version mobil **/
 @media only screen and (max-width: 600px) {
-    .login__container{
+    .login__container {
+        background-color: transparent;
+        border: none;
+        padding: 0px;
+        width: 100%;
+    }
+
+    .register__container{
         background-color: transparent;
         border: none;
         padding: 0px;
