@@ -5,7 +5,7 @@ body {
   /*Estilos para la cabecera del sitio*/
   .header {
     align-items: center;
-    background-color: #21c08b;
+    background-color: #003049;
     color: white;
     display: flex;
     height: 100px;
@@ -21,7 +21,7 @@ body {
 
   /*Estilos para la pantalla de login*/
   .login {
-      background: linear-gradient(#21c08b, #ab88ff);
+      background: linear-gradient(#003049, #8F57FD);
       display: flex;
       align-items: center;
       justify-content: center;
@@ -98,7 +98,7 @@ body {
 
 /* Estilos para la pantalla de registro*/
 .register{
-    background: linear-gradient(#21c08b, #ab88ff);
+    background: linear-gradient(#003049, #8F57FD);
       display: flex;
       align-items: center;
       justify-content: center;
@@ -180,7 +180,7 @@ body {
 }
 
 .footer{
-    background-color: #ab88ff;
+    background-color: #8F57FD;
     display: flex;
     align-items: center;
     height: 100px;
