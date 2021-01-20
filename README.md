@@ -6,9 +6,9 @@ Hello my name is Oscar Quintanilla and this is a video app developed from a **Pl
 - JavaScript
 - React
 
-Feel free to use the app and if you like please give me your feedback. I'll more than happy to hear about it.
-
 :sunglasses: watch the demo here:  https://owqh.github.io/video-app/
+
+Feel free to use the app and if you like please give me your feedback. I'll more than happy to hear about it.
 ------------
 Made with a lot of :coffee:  and :blue_heart:
 
